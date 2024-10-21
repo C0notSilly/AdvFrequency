@@ -17,6 +17,12 @@ pip3 install torch torchvision torchaudio
 ```
 Other versions of PyTorch could be install [here](https://pytorch.org/get-started/locally/).
 
+## Train
+After setting the training data and pretrained models accordingly, run the following line:
+```bash
+python train.py
+```
+
 ## Shortcut Evaluation
 The code of frequency shortcut evaluation could be found [here](https://github.com/nis-research/nn-frequency-shortcuts).
 
