@@ -29,12 +29,10 @@ The code of frequency shortcut evaluation could be found [here](https://github.c
 ## Citation
 
 ```
-@inproceedings{
-anonymous2024towards,
-title={Towards Combating Frequency Simplicity-biased Learning for Domain Generalization},
-author={Anonymous},
-booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-year={2024},
-url={https://openreview.net/forum?id=VMiLdBkCJM}
+@article{he2024towards,
+  title={Towards Combating Frequency Simplicity-biased Learning for Domain Generalization},
+  author={He, Xilin and Hu, Jingyu and Lin, Qinliang and Luo, Cheng and Xie, Weicheng and Song, Siyang and Khan, Muhammad Haris and Shen, Linlin},
+  journal={arXiv preprint arXiv:2410.16146},
+  year={2024}
 }
 ```
